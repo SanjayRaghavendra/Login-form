@@ -16,6 +16,7 @@ body{
   align-items: center;
   display: none;
 }
+
 .modal-content{
   width: 500px;
   height: 300px;
@@ -124,3 +125,4 @@ h1{
   transform: rotate(45deg);
   cursor: pointer;
 }
+
